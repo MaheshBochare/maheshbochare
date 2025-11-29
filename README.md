@@ -26,7 +26,7 @@ I'm a final-year AI & ML student passionate about building intelligent solutions
 - Implemented similarity scoring, nearest-neighbors search, and dynamic ranking logic
 - Technologies: Python, Pandas, Scikit-Learn, Surprise Library, NLP, TF-IDF, Cosine Similarity
 
-### [university management system]
+### [university management system](https://github.com/MaheshBochare/university-management-system)
 - Developed a university management system using HTML, CSS, JS, PHP, and MySQL.
 - Implemented login, CRUD operations, attendance, and result management.
 - Built responsive dashboards for admins, faculty, and students.
