@@ -15,7 +15,7 @@ I'm a final-year AI & ML student passionate about building intelligent solutions
 - Achieved 10% performance boost with Voting Classifier
 - Technologies: NLP, Python, NLTK, Spacy
 
-### [KCET Admission Predictor](https://github.com/maheshbochare/kcet-predictor)
+### [KCET Admission Predictor](https://github.com/MaheshBochare/Kcetadmissionpredicitonweb)
 - Developed ETL pipelines and interactive dashboards
 - Technologies: Python, SQL, Django, Plotly
 
