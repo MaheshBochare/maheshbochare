@@ -6,7 +6,7 @@ I'm a final-year AI & ML student passionate about building intelligent solutions
 
 ## 🔥 Featured Projects
 
-### [Diabetic Retinopathy Classification](https://github.com/maheshbochare/diabetic-retinopathy)
+### [Diabetic Retinopathy Classification](https://github.com/MaheshBochare/diabatic_retenopathy_prediction)
 - Improved prediction accuracy from 70% to 82% using ensemble methods
 - Technologies: Python, Scikit-learn, OpenCV, Random Forest, SVM
 
