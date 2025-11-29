@@ -1,30 +1,27 @@
 # 👋 Hi, I'm Mahesh Bochare
 
-**Aspiring Data Scientist | Machine Learning Engineer | AI Enthusiast**
-
-I'm a final-year AI & ML student passionate about building intelligent solutions using data. I specialize in end-to-end machine learning projects, from data preprocessing to model deployment.
+I am a final-year AI & ML student with strong skills in data analysis, machine learning, and building end-to-end models. I enjoy solving real-world problems through data, working on projects in NLP, computer vision, and prediction systems. I’m passionate about learning, exploring new tools, and creating practical, impactful solutions.
 
 ## 🔥 Featured Projects
-
-### [Diabetic Retinopathy Classification](https://github.com/MaheshBochare/diabatic_retenopathy_prediction)
-- Improved prediction accuracy from 70% to 82% using ensemble methods
-- Technologies: Python, Scikit-learn, OpenCV, Random Forest, SVM
-
 ### [Product Sentiment Analysis](https://github.com/MaheshBochare/sentiment-analysis-of-a-smartphone)
 - Built NLP pipeline with TF-IDF + VADER + Spacy
 - Achieved 10% performance boost with Voting Classifier
 - Technologies: NLP, Python, NLTK, Spacy
 
-### [KCET Admission Predictor](https://github.com/MaheshBochare/Kcetadmissionpredicitonweb)
-- Developed ETL pipelines and interactive dashboards
-- Technologies: Python, SQL, Django, Plotly
-
+### [Diabetic Retinopathy Classification](https://github.com/MaheshBochare/diabatic_retenopathy_prediction)
+- Improved prediction accuracy from 70% to 82% using ensemble methods
+- Technologies: Python, Scikit-learn, Random Forest, SVM,jupyter notebooks
+- 
 ### [Book recomendationsystem](https://github.com/MaheshBochare/Kcetadmissionpredicitonweb)
 - Developed a hybrid recommendation engine using Collaborative Filtering
 - Engineered TF-IDF and cosine-similarity pipeline for accurate book–reader matching
 - Achieved higher personalization accuracy by integrating user–item rating matrix + metadata-based features
 - Implemented similarity scoring, nearest-neighbors search, and dynamic ranking logic
 - Technologies: Python, Pandas, Scikit-Learn, Surprise Library, NLP, TF-IDF, Cosine Similarity
+
+### [KCET Admission Predictor](https://github.com/MaheshBochare/Kcetadmissionpredicitonweb)
+- Developed ETL pipelines and interactive dashboards and a website under Django
+- Technologies: Python, SQL, Django, Plotly
 
 ### [university management system](https://github.com/MaheshBochare/university-management-system)
 - Developed a university management system using HTML, CSS, JS, PHP, and MySQL.
