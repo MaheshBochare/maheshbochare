@@ -20,7 +20,7 @@ I'm a final-year AI & ML student passionate about building intelligent solutions
 - Technologies: Python, SQL, Django, Plotly
 
 ### [Book recomendationsystem](https://github.com/MaheshBochare/Kcetadmissionpredicitonweb)
-- Developed a hybrid recommendation engine using Collaborative Filtering + Content-Based Filtering
+- Developed a hybrid recommendation engine using Collaborative Filtering
 - Engineered TF-IDF and cosine-similarity pipeline for accurate book–reader matching
 - Achieved higher personalization accuracy by integrating user–item rating matrix + metadata-based features
 - Implemented similarity scoring, nearest-neighbors search, and dynamic ranking logic
