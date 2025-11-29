@@ -10,7 +10,7 @@ I'm a final-year AI & ML student passionate about building intelligent solutions
 - Improved prediction accuracy from 70% to 82% using ensemble methods
 - Technologies: Python, Scikit-learn, OpenCV, Random Forest, SVM
 
-### [Product Sentiment Analysis](https://github.com/maheshbochare/sentiment-analysis)
+### [Product Sentiment Analysis](https://github.com/MaheshBochare/sentiment-analysis-of-a-smartphone)
 - Built NLP pipeline with TF-IDF + VADER + Spacy
 - Achieved 10% performance boost with Voting Classifier
 - Technologies: NLP, Python, NLTK, Spacy
