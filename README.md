@@ -20,11 +20,16 @@ I'm a final-year AI & ML student passionate about building intelligent solutions
 - Technologies: Python, SQL, Django, Plotly
 
 ### [Book recomendationsystem](https://github.com/MaheshBochare/Kcetadmissionpredicitonweb)
--Developed a hybrid recommendation engine using Collaborative Filtering + Content-Based Filtering
--Engineered TF-IDF and cosine-similarity pipeline for accurate book–reader matching
--Achieved higher personalization accuracy by integrating user–item rating matrix + metadata-based features
--Implemented similarity scoring, nearest-neighbors search, and dynamic ranking logic
--Technologies: Python, Pandas, Scikit-Learn, Surprise Library, NLP, TF-IDF, Cosine Similarity
+- Developed a hybrid recommendation engine using Collaborative Filtering + Content-Based Filtering
+- Engineered TF-IDF and cosine-similarity pipeline for accurate book–reader matching
+- Achieved higher personalization accuracy by integrating user–item rating matrix + metadata-based features
+- Implemented similarity scoring, nearest-neighbors search, and dynamic ranking logic
+- Technologies: Python, Pandas, Scikit-Learn, Surprise Library, NLP, TF-IDF, Cosine Similarity
+
+### [university management system]
+- Developed a university management system using HTML, CSS, JS, PHP, and MySQL.
+- Implemented login, CRUD operations, attendance, and result management.
+- Built responsive dashboards for admins, faculty, and students.
 
 ## 🛠 Technical Skills
 **Programming:** Python, SQL, C++
