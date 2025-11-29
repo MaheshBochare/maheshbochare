@@ -29,9 +29,9 @@ I am a final-year AI & ML student with strong skills in data analysis, machine l
 - Built responsive dashboards for admins, faculty, and students.
 
 ## 🛠 Technical Skills
-**Programming:** Python, SQL, C++
-**ML/DL:** Scikit-learn, TensorFlow, Keras, ANN, CNN, GAN
-**Data Tools:** Pandas, NumPy, Matplotlib, Seaborn
+**Programming:** Python, SQL, C#
+**ML/DL:** Scikit-learn, TensorFlow, Keras, ANN, CNN
+**Data Tools:** Pandas, NumPy, Matplotlib, Seaborn,pyspark
 **NLP:** NLTK, Spacy, TF-IDF, Sentiment Analysis
 **DevOps:** Docker, Git, GitHub Actions, AWS Basics
 **Web Frameworks:** Django, REST APIs
