@@ -99,7 +99,7 @@ Python, PySpark, Pandas, SQL, FastAPI, Medallion Architecture, Snowflake Schema,
 ## 🔥 Machine Learning & Data Science Projects
 
 ## 📚 Book Recommendation System
-
+https://github.com/MaheshBochare/bookrecomendationsystem
 A **hybrid recommendation engine** designed to provide personalized book suggestions.
 
 ### 🔹 Problem
@@ -122,7 +122,7 @@ Python, Pandas, Scikit-Learn, Surprise Library, NLP, TF-IDF, Cosine Similarity
 ---
 
 ## 💬 Product Sentiment Analysis (NLP)
-
+https://github.com/MaheshBochare/sentiment-analysis-of-a-smartphone
 An NLP system to analyze smartphone reviews and classify sentiment.
 
 ### 🔹 NLP Pipeline
@@ -142,7 +142,7 @@ Python, NLTK, SpaCy, TF-IDF, VADER, Scikit-Learn
 ---
 
 ## 👁️ Diabetic Retinopathy Classification
-
+https://github.com/MaheshBochare/diabatic_retenopathy_prediction
 A healthcare ML project focused on early disease detection.
 
 ### 🔹 Approach
@@ -175,6 +175,7 @@ HTML, CSS, JavaScript, PHP, MySQL
 
 ---
 ## 📊 Data Science Assignments (ExcelR Institute)
+https://github.com/MaheshBochare/excelrassignments
 
 Completed multiple **hands-on Data Science and Machine Learning assignments** as part of the ExcelR institute program, focused on applying ML algorithms to **real-world business and societal problems** using Excel.
 
@@ -191,8 +192,9 @@ Excel, Machine Learning Algorithms, Data Analysis, Model Evaluation, Real-World 
 ---
 
 ## 🏥 OPD Token Allocation System (Backend Project)
+https://github.com/MaheshBochare/opd_token_allocation
 
-Developed a **backend-only OPD Token Allocation System** to digitize and streamline patient queue management in hospitals.
+Developed a **backend-only OPD Token Allocation System** to digitize and streamline patient queue management in hospitals [assignment by a company].
 
 - Built RESTful APIs using **Django REST Framework**
 - Implemented core features including:
