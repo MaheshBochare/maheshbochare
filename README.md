@@ -230,7 +230,12 @@ Python, Django REST Framework, SQL, REST APIs, Postman
 ---
 
 ⭐ **Fun Fact:**  
-I built a **GAN that learned to play Othello and defeated heuristic-based bots**, purely through self-play and learned strategies.
+⭐ **Fun Facts:**
+- I enjoy solving **real-world problems using data**, turning raw information into practical, impactful solutions.
+- I love building **end-to-end systems** that combine data engineering, machine learning, and backend APIs.
+- I once built a **GAN that learned to play Othello and defeated heuristic-based bots** through self-play.
+- I’m always curious about optimizing systems—whether it’s **admission prediction, healthcare workflows, or recommendation engines**.
+
 
 ---
 
