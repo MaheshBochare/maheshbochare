@@ -229,9 +229,6 @@ Developed a **backend-only OPD Token Allocation System** to digitize and streaml
 - **Email:** Maheshbochare81@gmail.com  
 - **Portfolio:** Coming soon 🚧
 
----
-
-⭐ **Fun Fact:**  
 ⭐ **Fun Facts:**
 - I enjoy solving **real-world problems using data**, turning raw information into practical, impactful solutions.
 - I love building **end-to-end systems** that combine data engineering, machine learning, and backend APIs.
