@@ -206,7 +206,7 @@ Developed a **backend-only OPD Token Allocation System** to digitize and streaml
 - Real-world impact: **reduced OPD wait times and improved hospital workflow efficiency**
 
 **Technologies:**  
-Python, Django REST Framework, SQL, REST APIs, Postman
+- Python, Django REST Framework, SQL, REST APIs, Postman
 ---
 
 ## 🛠 Technical Skills
