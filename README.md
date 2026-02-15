@@ -61,7 +61,7 @@ The platform assists students during the KCET counseling process by providing **
 - Organized the system into **frontend, backend, and data layers**
 
 **Tech Stack:**  
-Python, Pandas, Scikit-learn, Django, REST APIs, Redis, Celery, SQL, Plotly, React, HTML, CSS, Bootstrap, Docker, Git, Postman
+Python, Pandas, Scikit-learn, Django, REST APIs, Redis, Celery, SQL, Plotly, React, HTML, CSS, Bootstrap, Docker, Git, Postman,bootstrap,responsive design
 
 ---
 
