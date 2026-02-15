@@ -160,6 +160,7 @@ Python, Scikit-Learn, Random Forest, SVM, ANN, Jupyter
 
 ---
 
+
 ## 🔥 Full-Stack Web Project (LAMP)
 
 ### 🎓 University Management System  
@@ -173,6 +174,40 @@ Python, Scikit-Learn, Random Forest, SVM, ANN, Jupyter
 HTML, CSS, JavaScript, PHP, MySQL
 
 ---
+## 📊 Data Science Assignments (ExcelR Institute)
+
+Completed multiple **hands-on Data Science and Machine Learning assignments** as part of the ExcelR institute program, focused on applying ML algorithms to **real-world business and societal problems** using Excel.
+
+- Worked on **Supervised Learning algorithms** such as Linear Regression, Logistic Regression, Decision Trees, Random Forest, and KNN for use cases like sales forecasting, customer churn prediction, loan approval, and student performance analysis.
+- Implemented **Unsupervised Learning techniques** including K-Means Clustering, Hierarchical Clustering, PCA, and Association Rule Mining for customer segmentation, market basket analysis, and pattern discovery.
+- Completed **Semi-Supervised Learning assignments** using partially labeled datasets to improve classification performance in scenarios with limited labeled data.
+- Solved **Reinforcement Learning problems (conceptual assignments)** focused on decision-making, optimization, and reward-based learning.
+- Performed **Deep Learning and Computer Vision assignments** covering ANN fundamentals, image preprocessing, feature extraction, and image classification concepts.
+- All assignments were executed using **Excel for data analysis, modeling logic, visualization, and result interpretation**.
+
+**Tools & Concepts:**  
+Excel, Machine Learning Algorithms, Data Analysis, Model Evaluation, Real-World Case Studies
+
+---
+
+## 🏥 OPD Token Allocation System (Backend Project)
+
+Developed a **backend-only OPD Token Allocation System** to digitize and streamline patient queue management in hospitals.
+
+- Built RESTful APIs using **Django REST Framework**
+- Implemented core features including:
+  - Patient registration  
+  - Token generation  
+  - Doctor availability management  
+  - OPD queue handling
+- Designed scalable database models to manage patient flow efficiently
+- Ensured proper request validation and error handling
+- Tested and validated APIs using **Postman**
+- Real-world impact: **reduced OPD wait times and improved hospital workflow efficiency**
+
+**Technologies:**  
+Python, Django REST Framework, SQL, REST APIs, Postman
+---
 
 ## 🛠 Technical Skills
 
@@ -184,9 +219,6 @@ HTML, CSS, JavaScript, PHP, MySQL
 **Frontend:** React, HTML, CSS, Bootstrap  
 **Web & APIs:** Django, FastAPI, REST APIs  
 **DevOps:** Docker, Git, GitHub Actions, AWS (Basics)
-
----
-
 
 
 ## 📫 Let’s Connect
