@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mahesh Bochare
 
-🚀 **Graduate AI & ML  | Full-Stack AI & Data Engineer**  
+🚀 **Data Science & AI Engineer | Full-Stack (Django + React) | ETL & ML Pipelines | Built KCET Predictor & AI Systems** 
 📍 India  
 
 I am a passionate **AI & Data Engineering enthusiast** with hands-on experience in building **end-to-end, production-style systems** that combine **data engineering, predictive machine learning, backend APIs, and modern frontend applications**.
